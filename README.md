@@ -4,15 +4,15 @@ This part implements a guided flow chatbot.
 The chatbot asks questions step-by-step, validates user input, and presents a final summary.
 
 ## 📂 Folder Structure
-app.py – Streamlit interface for the flow chatbot.
-requirements.txt – Python dependencies.
+- app.py – Streamlit interface for the flow chatbot.
+- requirements.txt – Python dependencies.
 
 ## Setup Instructions
 
 1. Clone the repo:
-bash
-git clone https://github.com/Aparna-Pawar/Part-A-Flow-Chatbot.git
-cd Part-A-Flow-Chatbot
+   bash
+   git clone https://github.com/Aparna-Pawar/Part-A-Flow-Chatbot.git
+   cd Part-A-Flow-Chatbot
 
 2. Create and activate a virtual environment:
 python3 -m venv venv
@@ -31,3 +31,4 @@ streamlit run app.py
 
 Access Online:
 https://part-a-flow-based-chatbot-ipcpkjecl9efhtgxmsyyvb.streamlit.app/
+
