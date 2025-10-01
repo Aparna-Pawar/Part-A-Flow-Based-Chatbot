@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.set_page_config(page_title="Guided Flow Chatbot")
-st.title("Guided Flow Chatbot")
+st.set_page_config(page_title="Flow-Based Chatbot")
+st.title("Flow-Based Chatbot")
 
 # Define the flow of questions with validation
 questions = [
