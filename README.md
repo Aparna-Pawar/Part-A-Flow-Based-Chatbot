@@ -10,20 +10,20 @@ The chatbot asks questions step-by-step, validates user input, and presents a fi
 ## Setup Instructions
 
 1. Clone the repo:
-   bash
-   git clone https://github.com/Aparna-Pawar/Part-A-Flow-Chatbot.git
-   cd Part-A-Flow-Chatbot
+- bash
+- git clone https://github.com/Aparna-Pawar/Part-A-Flow-Chatbot.git
+- cd Part-A-Flow-Chatbot
 
 2. Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+- python3 -m venv venv
+- source venv/bin/activate   # macOS/Linux
+- venv\Scripts\activate      # Windows
 
 3. Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 Run Locally
-streamlit run app.py
+- streamlit run app.py
 
 - The chatbot guides the user through a series of questions.
 - Input is validated at each step.
@@ -31,4 +31,5 @@ streamlit run app.py
 
 Access Online:
 https://part-a-flow-based-chatbot-ipcpkjecl9efhtgxmsyyvb.streamlit.app/
+
 
